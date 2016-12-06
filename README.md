@@ -1,6 +1,10 @@
 # Kawalgizi Website
 Based on [Este.js](https://github.com/este/este/).
 
+## TODO
+- [ ] User Management (Contributor, Supervisor, Nutrient Expert, Admin)
+- [ ] View for valid nutrient data from contributor
+
 ## Techniques
 
 - Universal architecture
