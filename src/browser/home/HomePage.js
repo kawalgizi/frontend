@@ -14,7 +14,7 @@ const HomePage = () => (
   <View>
     <Title message="Kawal Gizi" />
     <PageHeader
-      description="Crowdsourcing web to collect data nurient from all product in Indonesia"
+      description="Website Crowdsourcing to collect nutrient data from all product in Indonesia"
       heading="Kawal Gizi"
     />
     {/* This is a block with margin-bottom: scale[4]. Inline styles rocks. */}
