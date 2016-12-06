@@ -7,7 +7,7 @@ const app = express();
 
 app.use(compression());
 app.use('/assets', express.static('build', { maxAge: '200d' }));
-app.use('/rwakemydyno.txt', express.static('src/browser/wakemydyno.txt'));
+app.use('/wakemydyno.txt', express.static('src/browser/wakemydyno.txt'));
 app.get('*', render);
 
 export default app;
