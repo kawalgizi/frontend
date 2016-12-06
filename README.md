@@ -1,19 +1,5 @@
-<img
-  alt="Este.js"
-  src="https://cloud.githubusercontent.com/assets/66249/6515278/de638916-c388-11e4-8754-184f5b11e770.jpeg"
-  width="200"
-/>
-
-[![Circle CI](https://img.shields.io/circleci/project/este/este/master.svg)](https://circleci.com/gh/este/este)
-[![Join the chat at https://gitter.im/este/este](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/este/este)
-[![Dependency Status](https://david-dm.org/este/este.svg)](https://david-dm.org/este/este)
-[![GitHub license](https://img.shields.io/github/license/este/este.svg)](https://github.com/este/este/blob/master/LICENSE)
-
-> Starter kit for universal full–fledged React apps. One stack for browser, mobile, server.
-
-> You don't have to start with everything. Este is perfect even for plain static pages. You can gracefully add any platform later. Este mission is simple: **Help startups to deliver minimal valuable product asap with the state of the art real-time universal app stack**.
-
-> Pokud máte zájem o školení JavaScript, React.js, nebo Este.js, podívejte se na [javascript-skoleni.cz](https://javascript-skoleni.cz/).
+# Kawalgizi Website
+Based on [Este.js](https://github.com/este/este/).
 
 ## Techniques
 
@@ -122,6 +108,15 @@ React Native: [Getting Started](https://facebook.github.io/react-native/docs/get
 - Recommended editor is [Atom](https://atom.io). Check [settings](https://github.com/este/este/wiki/Recommended-Atom.io-Settings).
 - Install [nuclide.io](https://nuclide.io/), enable "Use the Flow binary included in each project".
 
-## Credit
+## Acknowledgement of Este.js
 
-Made by [Daniel Steigerwald](https://twitter.com/steida) and the community.
+### Support Este development
+
+<img alt="Support Este development QR code" src="http://i.imgur.com/btUZ0IU.png" width="115" height="115">
+
+<img alt="Este.js" src="https://cloud.githubusercontent.com/assets/66249/6515278/de638916-c388-11e4-8754-184f5b11e770.jpeg" width="200">
+
+made by [Daniel Steigerwald](https://twitter.com/steida) and the community.
+
+Support Este.js development via Bitcoin - [daniel.steigerwald.cz/#donate-estejs](http://daniel.steigerwald.cz/#donate-estejs).
+
